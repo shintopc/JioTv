@@ -64,12 +64,6 @@ http://localhost:8080/JioTv/
 3. Enter your **Jio mobile number**. </br>
 3. Enter **Otp.** </br>
 
-<h3>♻️ JOIN FOR UPDATES :</h3>
-
-- JOIN OUR TELEGRAM CHANNEL
-
-- https://t.me/jitendraunatti_github
-
 <h3>😇 SCRIPT FEATURES :</h3>
 
 - Star Added ["Star Tv"];
