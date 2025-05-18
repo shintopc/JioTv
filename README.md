@@ -211,8 +211,6 @@ http://localhost:8080/JioTv/playlist.php
 
 <h3>🤗 CONTACT US : </h3>
 
-- TELEGRAM CHANNEL  JOIN NOW https://t.me/jitendraunatti_github
-- FOR ANY QUERY CONTACT US ON [PROTON-MAIL](mailto:jitendraunatti@pm.me)
 
 </br>
 <hr>
@@ -225,5 +223,5 @@ This code is protected under the [GPL](https://github.com/Jitendraunatti/JioTv/b
 
 <h4 align='center'>© 2021-24 JITENDRA KUMAR</h4>
 
-<!-- DO NOT REMOVE THIS CREDIT -->
-<!-- © 2021-24 jitendra kumar -->
+
+
