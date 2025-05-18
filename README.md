@@ -63,7 +63,6 @@ http://localhost:8080/JioTv/
 2. Click on the Login button. </br>
 3. Enter your **Jio mobile number**. </br>
 3. Enter **Otp.** </br>
-<img src="https://i.ibb.co/WtP1TgY/iage.png" alt="home" width="700" height="350">
 
 <h3>♻️ JOIN FOR UPDATES :</h3>
 
